@@ -1,37 +1,61 @@
-# Real Estate Analysis Chatbot
+# Real Estate Chatbot Analyzer 🏠🤖
 
-This is a mini full-stack project developed as part of my academic assignment.
+This project is a **full-stack Real Estate Analyzer** that takes natural language queries
+(e.g., *"show me prices in Wakad"*) and returns:
 
-The system allows users to analyze real estate locality data using a simple chat-style query such as:
-
-- Show me prices in Wakad
-- Show demand trend for Hinjewadi
-- Compare prices of areas
-
-The project reads an Excel dataset, processes it, and displays:
-
-✅ Summary of the analysis  
-✅ Price trend chart  
+✅ Summary insights  
+✅ Price & demand trend data  
 ✅ Data table  
-
+✅ API-powered results using Django backend & React frontend
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 Tech Stack
 
 ### Backend (Django)
-- Python
 - Django REST Framework
-- Pandas
-- Openpyxl
-- CORS Headers
+- Python 3
+- Custom API endpoint: `/api/analyze/`
 
 ### Frontend (React)
-- React
-- Axios
-- Chart.js
-- Speech Recognition API
+- Axios for API calls
+- Responsive UI
+- Data rendering
 
 ---
 
+## 📸 Screenshots
 
+### ✅ VS Code – Frontend Running
+![Frontend](screenshots/frontend.png)
+
+### ✅ VS Code – Backend Running
+![Backend](screenshots/backend.png)
+
+### ✅ Frontend UI (Home Page)
+![UI Empty](screenshots/ui-empty.png)
+
+### ✅ Query Result Page
+![UI Result](screenshots/ui-result.png)
+
+### ✅ Django Server Running
+![Server](screenshots/server.png)
+
+---
+
+## 🛠️ How to Run
+
+### FrontEnd
+```bash
+cd realestate-chatbot-backend-full
+venv\Scripts\activate
+python manage.py runserver
+### FrontEnd
+```bash
+cd simple-frontend
+npm install
+npm start
+
+
+venv\Scripts\activate
+python manage.py runserver
