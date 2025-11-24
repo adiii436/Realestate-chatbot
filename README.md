@@ -46,7 +46,7 @@ This project is a **full-stack Real Estate Analyzer** that takes natural languag
 
 ## 🛠️ How to Run
 
-### FrontEnd
+### BackEnd
 ```bash
 cd realestate-chatbot-backend-full
 venv\Scripts\activate
@@ -58,5 +58,4 @@ npm install
 npm start
 
 
-venv\Scripts\activate
-python manage.py runserver
+
