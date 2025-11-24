@@ -27,7 +27,7 @@ This project is a **full-stack Real Estate Analyzer** that takes natural languag
 ## 📸 Screenshots
 
 ### ✅ VS Code – Frontend Running
-![Frontend](screenshots/frontend.png)
+![Frontend](Screenshot 2025-11-24 171731.png)
 
 ### ✅ VS Code – Backend Running
 ![Backend](screenshots/backend.png)
