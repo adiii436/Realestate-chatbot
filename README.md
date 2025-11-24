@@ -38,7 +38,7 @@ This project is a **full-stack Real Estate Analyzer** that takes natural languag
 ### ✅ Query Result Page
 ![UI Result](screenshots/analyze-result.png)
 
-### ✅ Django Server Running
+### ✅ Backend
 ![Server](screenshots/Backend.png)
 
 
