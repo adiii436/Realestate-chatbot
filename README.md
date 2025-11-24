@@ -13,7 +13,7 @@ The project reads an Excel dataset, processes it, and displays:
 ✅ Summary of the analysis  
 ✅ Price trend chart  
 ✅ Data table  
-✅ Voice input (speech to text)
+
 
 ---
 
