@@ -27,19 +27,20 @@ This project is a **full-stack Real Estate Analyzer** that takes natural languag
 ## 📸 Screenshots
 
 ### ✅ VS Code – Frontend Running
-![Frontend](Screenshot 2025-11-24 171731.png)
+![Frontend](screenshots/frontend-terminal.png)
 
 ### ✅ VS Code – Backend Running
-![Backend](screenshots/backend.png)
+![Backend](screenshots/backend-terminal.png)
 
 ### ✅ Frontend UI (Home Page)
-![UI Empty](screenshots/ui-empty.png)
+![UI Empty](screenshots/browser.png)
 
 ### ✅ Query Result Page
-![UI Result](screenshots/ui-result.png)
+![UI Result](screenshots/analyze-result.png)
 
 ### ✅ Django Server Running
-![Server](screenshots/server.png)
+![Server](screenshots/backend.png)
+
 
 ---
 
